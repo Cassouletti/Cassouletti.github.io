@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    merlot (0.1.2)
+      posix-spawn (~> 0.3.11)
+      prawn (~> 2.1.0)
+    pdf-core (0.6.1)
+    posix-spawn (0.3.15)
+    prawn (2.1.0)
+      pdf-core (~> 0.6.1)
+      ttfunk (~> 1.4.0)
+    ttfunk (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  merlot
+
+BUNDLED WITH
+   1.17.2
