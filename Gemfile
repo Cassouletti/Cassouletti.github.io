@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "merlot"
+gem "github-pages", group: :jekyll_plugins
